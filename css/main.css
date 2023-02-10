@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(71, 241, 65);
+    text-decoration: underline;
+}
+h2 {
+    color:rgb(59, 52, 22);
+    text-decoration: underline;
+}
+.text {
+       color: rgb(12, 95, 84); /* poragraph */
+
+}
+.li {
+    color: #63b2cf; /* bulleted list */
+}
